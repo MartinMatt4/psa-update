@@ -1,7 +1,7 @@
 {
-  "ultima_version": "1.0.0",
+  "ultima_version": "1.0.1",
   "url": "https://github.com/MartinMatt4/psa-update/releases/download/v1.0.0/PSA.exe",
-  "sha256": "BC50192A164DD3D8A63BF77625C39BBCC6D9380EC7BCD573BA7A8C28F5FB5AA4",
+  "sha256": "247CC3A6912115475F2F4B5787F6EE9B54C41E5C492D273E6B73CD7372D69364",
   "mandatory": true,
-  "changelog": "Correcciones y mejoras de rendimiento."
+  "changelog": "Agrega mejoras en la interfaz de usuario y corrección de errores."
 }
