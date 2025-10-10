@@ -1,7 +1,7 @@
 {
-  "ultima_version": "1.0.4",
+  "ultima_version": "1.0.5",
   "url": "https://github.com/MartinMatt4/psa-update/releases/download/v1.0.0/PSA-setup.exe",
-  "sha256": "01759C11FEAB8A7B45780B617716BD556EADFC3CD22AD9910C78F7480CFB2057",
+  "sha256": "654C2CD61A0F770841533DF3E733B91F745C37A491BD87CE1BA7E7EB8F91F34B",
   "mandatory": true,
   "changelog": "Agrego la agenda.json!"
 }
